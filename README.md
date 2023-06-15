@@ -16,3 +16,4 @@ Como parâmetro pode ser passado tanto um arquivo, quanto um diretório, caso se
 ## Aprendizados
 
 Nesse curso eu tive o primeiro contato com o Node.js apesar de já utilizar javascript há algum tempo, consegui compreender melhor o funcionamento de funções assíncronas, leitura de arquivos utilizando a biblioteca "fs", utilização de bibliotecas externas com a biblioteca "chalk" utilizada, recebimento de argumentos pelo terminal, tratamento de erros e também aprimorei meus conhecimentos em REGEX.
+Apesar de ser um curso bem simples, me trouxe bastante exclarecimento sobre alguns tópicos.
